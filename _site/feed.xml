@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaipur-Open-Source-Community</title>
+    <description>Jaipur-Open-Source-Community is a community of coding enthusiasts who love to make open source contributions and further the developer culture in the pink city of India.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 08 Oct 2017 18:43:26 +0530</pubDate>
+    <lastBuildDate>Sun, 08 Oct 2017 18:43:26 +0530</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Cool Project 2</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non iaculis risus. Phasellus vitae nunc ac lectus finibus porttitor. Sed vel enim vulputate, euismod neque maximus, tincidunt turpis. Aenean accumsan leo eget dui porta pulvinar. Sed tincidunt, nisi non efficitur tempus, enim lectus aliquam arcu, at dignissim ligula ex eu quam. Suspendisse gravida dapibus ultrices. Vivamus convallis nulla nisl, a imperdiet felis pellentesque in. Nulla facilisi. Integer aliquet sed orci eu tempor. Sed viverra ullamcorper commodo.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 08 Oct 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/Cool-Project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/Cool-Project-2/</guid>
+        
+        
+        <category>Cool</category>
+        
+      </item>
+    
+      <item>
+        <title>Cool Project 1</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non iaculis risus. Phasellus vitae nunc ac lectus finibus porttitor. Sed vel enim vulputate, euismod neque maximus, tincidunt turpis. Aenean accumsan leo eget dui porta pulvinar. Sed tincidunt, nisi non efficitur tempus, enim lectus aliquam arcu, at dignissim ligula ex eu quam. Suspendisse gravida dapibus ultrices. Vivamus convallis nulla nisl, a imperdiet felis pellentesque in. Nulla facilisi. Integer aliquet sed orci eu tempor. Sed viverra ullamcorper commodo.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 08 Oct 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/Cool-Project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/Cool-Project-1/</guid>
+        
+        
+        <category>Cool</category>
+        
+      </item>
+    
+  </channel>
+</rss>
