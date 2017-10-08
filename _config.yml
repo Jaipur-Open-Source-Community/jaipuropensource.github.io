@@ -12,9 +12,13 @@ description: > # this means to ignore newlines until "baseurl:"
     Jaipur-Open-Source-Community is a community of coding enthusiasts who love to make open source contributions and further the developer culture in the pink city of India.
   
   
-## For github.io  
+## For remote github.io  
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://prakhar0409.github.io/jaipuropensource.github.io" # the base hostname & protocol for your site
+url: "http://jaipuropensource.github.io" # the base hostname & protocol for your site
+
+## For github.io  
+#baseurl: "/" # the subpath of your site, e.g. /blog
+#url: "http://prakhar0409.github.io/jaipuropensource.github.io" # the base hostname & protocol for your site
 
 ## For local dev
 #baseurl: "" # the subpath of your site, e.g. /blog
