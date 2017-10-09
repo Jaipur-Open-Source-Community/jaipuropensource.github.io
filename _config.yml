@@ -1,0 +1,65 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Jaipur-Open-Source-Community
+email: team@josc.in # :P
+description: > # this means to ignore newlines until "baseurl:"
+    Jaipur-Open-Source-Community is a community of coding enthusiasts who love to make open source contributions and further the developer culture in the pink city of India.
+  
+  
+## For remote github.io  
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://jaipuropensource.github.io" # the base hostname & protocol for your site
+
+## For github.io  
+#baseurl: "/" # the subpath of your site, e.g. /blog
+#url: "http://prakhar0409.github.io/jaipuropensource.github.io" # the base hostname & protocol for your site
+
+## For local dev
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site
+
+#sidebar
+default-image: default_project.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
+
+#footer
+built-by: webjeda
+copyright:
+   name: webjeda
+   link: 'http://blog.webjeda.com'
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+paginate: 6
+paginate_path: /page:num/
+
+# Tracker
+analytics: #
+
+# Comments
+disqus-shortname: jaipur-open-source-community
+
+#social
+facebook: #
+quora: #
+twitter: #
+github: https://github.com/Jaipur-Open-Source-Community
+
+#facebook like box
+fb-app-id: makeapp #
+fb-page-url: #
+fb-page-title: #
+
+# Sass style
+sass:
+  style: compressed
+
+# Ruby Gems
+gems: [jekyll-paginate, jekyll-seo-tag]
+
